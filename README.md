@@ -1,2 +1,2 @@
 # Eye-Tracking-Data-and-Source-Code-for-DF-Recognition-in-Warning-Contexts
-This repository provides eye-tracking data and source code used in our study on Detection Failure (DF) recognition in response to warnings. 
+This repository provides eye-tracking data and source code used in our study on Detection Failure (DF) recognition in response to warnings. The dataset includes key features such as fixation count, fixation duration, saccade amplitude, pupil diameter, blink frequency, and warning frequency types. The source code implements machine learning models for classifying different types of DFs, along with scripts for extracting features from the eye-tracking data. This resource is shared to support reproducibility and further exploration of our findings.
